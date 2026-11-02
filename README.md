@@ -43,4 +43,4 @@ and save it as `survey.csv` in this folder.
 ## How to run
 1. Install dependencies: `pip install pandas matplotlib`
 2. Download the data and save it as `survey.csv`.
-3. Run: `python3 analysis.py` (use your script's real filename)
+3. Run: `python3 analysis.py` (use your script's real filename)# mental-health-survey-analysis
